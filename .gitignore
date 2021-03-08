@@ -1,3 +1,4 @@
 /data/**
 /logs/**
 /model-checkpoints/**
+.ipynb_checkpoints
